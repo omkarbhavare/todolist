@@ -1,0 +1,20 @@
+.displayBody{
+display:flex;
+justify-content: center;
+
+
+}
+
+.task{
+    padding: 0.5rem 0;
+    overflow-wrap: break-word;
+    border: 1px solid white;
+}
+
+.pen:hover i{
+color: yellow;
+}
+
+.delete:hover i{
+    color: red;
+}

@@ -1,0 +1,10 @@
+.cardSection{
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+}
+
+input{
+height: 35px;
+margin: 0 5px;
+}
